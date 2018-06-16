@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/jgrietens/Documents/smartbeat/dl-track/0-0-saver-tests/my_test_model"
+all_model_checkpoint_paths: "/home/jgrietens/Documents/smartbeat/dl-track/0-0-saver-tests/my_test_model"
